@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookcase Portfolio Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-08 08:53-0400\n"
+"PO-Revision-Date: 2013-03-08 08:53-0400\n"
+"Last-Translator: \n"
+"Language-Team: 2winFactor <support@designcirc.us>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:3
+msgid "page lost, a haiku"
+msgstr ""
+
+#: ../404.php:9
+msgid "our search is lonely"
+msgstr ""
+
+#: ../404.php:11
+msgid "a footprint left in pure snow"
+msgstr ""
+
+#: ../404.php:13
+msgid "blown into"
+msgstr ""
+
+#: ../404.php:13
+msgid "nothing"
+msgstr ""
+
+#: ../archives.php:24
+msgid "Search"
+msgstr ""
+
+#: ../archives.php:32
+msgid "<p><strong>Also see:</strong><br />"
+msgstr ""
+
+#: ../author.php:26
+msgid "No posts by this author."
+msgstr ""
+
+#: ../author.php:33
+#, fuzzy
+msgid "Last 10 Comments by "
+msgstr "1 Comentario"
+
+#: ../author.php:41
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../author.php:43
+#, fuzzy
+msgid "No comments by "
+msgstr "No Comentarios"
+
+#: ../functions.php:41
+msgid "ZH2 Settings"
+msgstr ""
+
+#: ../functions.php:42
+msgid "ZH 2 Settings"
+msgstr ""
+
+#: ../functions.php:54
+msgid "Select a page:"
+msgstr ""
+
+#: ../functions.php:65
+msgid "Only display the title. (Hide the tagline)"
+msgstr ""
+
+#: ../functions.php:78
+msgid ""
+"Select your Archives Page from the list. (creates link for \"See all posts >>"
+"\")"
+msgstr ""
+
+#: ../functions.php:93
+msgid "Select a page to create a tagline link"
+msgstr ""
+
+#: ../functions.php:107
+msgid ""
+"Create a custom title before your social links navigation. Default is "
+"\"Subscribe."
+msgstr ""
+
+#: ../functions.php:119
+msgid "Link author to website. (Instead of author posts page)"
+msgstr ""
+
+#: ../functions.php:130
+msgid "Open site links in a new tab/window."
+msgstr ""
+
+#: ../index.php:10 ../single.php:9
+msgid "By:"
+msgstr ""
+
+#: ../index.php:12
+msgid "&raquo; More &raquo;"
+msgstr ""
+
+#: ../index.php:18
+msgid "See all posts &raquo;"
+msgstr ""
+
+#: ../index.php:25
+msgid "Not Found"
+msgstr ""
+
+#: ../index.php:26
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: ../page.php:9
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: ../page.php:11
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: ../page.php:13 ../single.php:12
+msgid "Edit"
+msgstr ""
+
+#: ../single.php:10
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: ../single.php:24
+msgid "Posted:"
+msgstr ""
+
+#: ../single.php:25
+msgid "Previous post:"
+msgstr ""
+
+#: ../single.php:29
+msgid "Next post:"
+msgstr ""
+
+#: ../single.php:36
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#~ msgid "Error 404 - Not found."
+#~ msgstr "Error 404 - No encontrado."
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Esta publicación está guardado con una contraseña. Favor de ingresar la "
+#~ "contraseña para ver los comentarios."
+
+#~ msgid "Comments"
+#~ msgstr "Comentarios"
+
+#~ msgid "Submit a Comment"
+#~ msgstr "Enviar un comentario"
+
+#~ msgid "You must be logged in to post a comment."
+#~ msgstr "Hay que ingresar para dejar un comentario."
+
+#~ msgid "Login"
+#~ msgstr "Ingresar"
+
+#~ msgid "Logged in as"
+#~ msgstr "Ingresado como"
+
+#~ msgid "Logout."
+#~ msgstr "Salir."
+
+#~ msgid "Name"
+#~ msgstr "Nombre"
+
+#~ msgid "Mail"
+#~ msgstr "Email"
+
+#~ msgid "Website"
+#~ msgstr "Sitio web"
+
+#~ msgid "Message"
+#~ msgstr "Mensaje"
+
+#~ msgid "Y/m/d"
+#~ msgstr "A/m/d"
+
+#~ msgid "Re-Attach"
+#~ msgstr "Re-adjuntar"
+
+#~ msgid "(Unattached)"
+#~ msgstr "(no adjuntado)"
+
+#~ msgid "Attach"
+#~ msgstr "Adjuntar"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Tu comentario espera aprobación."
+
+#~ msgid "Portfolio"
+#~ msgstr "Portafolio"
+
+#~ msgid "Portfolio Item"
+#~ msgstr "Ítem del portafolio"
+
+#~ msgid "Add New"
+#~ msgstr "Agregar nuevo"
+
+#~ msgid "Add New Portfolio Item"
+#~ msgstr "Agregar nuevo ítem al portafolio"
+
+#~ msgid "Skills"
+#~ msgstr "Habilidades"
+
+#~ msgid "Page %s"
+#~ msgstr "Página %s"
+
+#~ msgid "To Top"
+#~ msgstr "Al principio"
+
+#~ msgid "Read more..."
+#~ msgstr "Leer más..."
+
+#~ msgid "Edit Post"
+#~ msgstr "Editar publicación"
+
+#~ msgid "One Comment"
+#~ msgstr "Un comentario"
+
+#~ msgid "% Comments"
+#~ msgstr "% Comentarios"
+
+#~ msgid "Posted in"
+#~ msgstr "Publicado en"
+
+#~ msgid "Post by"
+#~ msgstr "Publicado por"
+
+#~ msgid "&larr; Older"
+#~ msgstr "&larr; Antiguo"
+
+#~ msgid "Newer &rarr;"
+#~ msgstr "Nuevo &rarr;"
+
+#~ msgid "Search Results for:"
+#~ msgstr "Resultados de la búsqueda por:"
+
+#~ msgid "Posted In"
+#~ msgstr "Publcado en"
+
+#~ msgid "Posted By"
+#~ msgstr "Publicado por"
+
+#~ msgid "Next"
+#~ msgstr "Próximo"
+
+#~ msgid "To search type and hit enter"
+#~ msgstr "Escribir algo y apretar Enter"
+
+#~ msgid "Open in Lightbox"
+#~ msgstr "Abre en Lighbox"
+
+#~ msgid "Comments:"
+#~ msgstr "Comentarios:"
+
+#~ msgid "Skills:"
+#~ msgstr "Habilidades:"
+
+#~ msgid "Posted in:"
+#~ msgstr "Publicado en:"
+
+#~ msgid "You forgot to fill in your name"
+#~ msgstr "Olvidaste escribir un nombre"
